@@ -1,6 +1,6 @@
 import pdfplumber
 import pandas as pd
-
+import tkinter as tk
 
 def extract_table_from_pdf(pdf_path, page_number):
     # Open the PDF file
