@@ -18,5 +18,5 @@ def extract_table_from_pdf(pdf_path, page_number):
 
 
 # Path to your PDF file and page number (0-indexed)
-pdf_path = "test.pdf"
+pdf_path = "test2.pdf"
 extract_table_from_pdf(pdf_path, page_number=0)  # Example: Extract table from the first page
